@@ -10,3 +10,6 @@ class ProfileSerializer(serializers.ModelSerializer):
 
         fields = ['first_name', 'username','role']
 
+
+
+
